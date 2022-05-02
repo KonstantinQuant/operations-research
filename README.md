@@ -9,6 +9,8 @@ Provided resources:
 
 The code solves the following linear programming problem: (Exercise 1.1):
 
+![render](https://user-images.githubusercontent.com/88515336/166338425-c227091d-1a7b-4df6-85b1-7041a9664ee6.png)
+
 $$
 Minimize
 $$
@@ -25,4 +27,5 @@ x_{1}, x_{2} & \geq 0
 \end{aligned}
 $$
 $$
+
 
