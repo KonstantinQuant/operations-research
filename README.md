@@ -9,7 +9,7 @@ Provided resources:
 
 The code solves the following linear programming problem: (Exercise 1.1):
 
-$
+$$
 Minimize
 $$
 200 x_{1}+160 x_{2}=z
@@ -24,5 +24,5 @@ x_{1}, x_{2} & \leq 7 \\
 x_{1}, x_{2} & \geq 0
 \end{aligned}
 $$
-$
+$$
 
