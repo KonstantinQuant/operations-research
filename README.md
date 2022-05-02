@@ -9,14 +9,11 @@ Provided resources:
 
 The code solves the following linear programming problem: (Exercise 1.1):
 
-![render](https://user-images.githubusercontent.com/88515336/166338425-c227091d-1a7b-4df6-85b1-7041a9664ee6.png)
-
-$$
 Minimize
 $$
 200 x_{1}+160 x_{2}=z
 $$
-sucht that
+sutch that
 $$
 \begin{aligned}
 6 x_{1}+2 x_{2} & \geq 12 \\
@@ -25,7 +22,6 @@ $$
 x_{1}, x_{2} & \leq 7 \\
 x_{1}, x_{2} & \geq 0
 \end{aligned}
-$$
 $$
 
 
