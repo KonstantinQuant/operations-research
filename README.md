@@ -1,6 +1,16 @@
 # Tutorial for Operations Research SS22 Konstantin Kuchenmeister
 Teaching repository for the undergraduate course in Operations Research at Technical University Munich.
 
+## Logistics:
+
+Every:
+- Tuesday 2pm-3:30pm GMT+2
+- Friday 3pm-4:30pm GMT+2
+
+Location:
+- Zoom
+
+
 
 ## Week 1: Modeling (of linear optimization systems)
 Provided resources:
