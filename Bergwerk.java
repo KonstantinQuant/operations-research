@@ -12,7 +12,6 @@ public class Bergwerk {
 			// Create environment and model
 			GRBEnv env = new GRBEnv();
 			GRBModel model = new GRBModel(env);
-			int[] neededWorkers = { 7, 8, 7, 10, 13, 12, 10 };
 
 			// Create variables and set objective coefficients			
 			GRBVar x1 = model.addVar(0, GRB.INFINITY, 0, GRB.CONTINUOUS, "x1");
