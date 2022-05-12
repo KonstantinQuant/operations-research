@@ -41,3 +41,9 @@ $$
 - Simplex Algorithm
 - Big M Method
 - Edge cases of linear optimization systems
+
+
+
+# Disclaimer: 
+All resources here I have created myself and I can in no way guarantee the accuracy of the information.
+The faculty's lecture slides and practice materials are crucial with regard to the exam, not my notes.
