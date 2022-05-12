@@ -35,3 +35,9 @@ x_{1}, x_{2} & \geq 0
 $$
 
 
+## Week 2: Solving linear optimization systems
+- Graphically
+- Normal-, standard-, canonical -Form
+- Simplex Algorithm
+- Big M Method
+- Edge cases of linear optimization systems
