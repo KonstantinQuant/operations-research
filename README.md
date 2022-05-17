@@ -11,8 +11,8 @@ Location:
 - Zoom
 
 ## Recordings:
-Week 1: https://youtu.be/9xSuFrGON5M
-Week 2: https://youtu.be/sqkcAcUGemo
+- Week 1: https://youtu.be/9xSuFrGON5M
+- Week 2: https://youtu.be/sqkcAcUGemo
 
 
 
