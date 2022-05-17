@@ -46,6 +46,7 @@ $$
 - Big M Method
 - Edge cases of linear optimization systems
 
+## Week 3: Revised Big M Method Simplex in Matrix Notation, Modelling preemptive and weighted goal programming problems
 
 
 # Disclaimer: 
