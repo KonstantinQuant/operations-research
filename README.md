@@ -27,7 +27,7 @@ Minimize
 $$
 200 x_{1}+160 x_{2}=z
 $$
-sutch that
+such that
 $$
 \begin{aligned}
 6 x_{1}+2 x_{2} & \geq 12 \\
