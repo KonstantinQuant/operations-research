@@ -24,9 +24,9 @@ Provided resources:
 The code solves the following linear programming problem: (Exercise 1.1):
 
 Minimize
-$$
+$
 200 x_{1}+160 x_{2}=z
-$$
+$
 such that
 $$
 \begin{aligned}
