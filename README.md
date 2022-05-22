@@ -11,6 +11,10 @@ Location:
 - Zoom
 
 ## Recordings:
+
+### Channel link: https://www.youtube.com/channel/UCUMv1AN6eQvcCCL4Gg5av4A
+### Playlist link: https://www.youtube.com/playlist?list=PLkmX_gkRxWIPS69e_lJQVtN8QaWNd2-50
+
 - Week 1: https://youtu.be/9xSuFrGON5M
 - Week 2: https://youtu.be/sqkcAcUGemo
 - Week 3: https://www.youtube.com/watch?v=d-bfR1_H0Sc
