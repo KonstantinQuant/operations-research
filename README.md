@@ -13,6 +13,7 @@ Location:
 ## Recordings:
 - Week 1: https://youtu.be/9xSuFrGON5M
 - Week 2: https://youtu.be/sqkcAcUGemo
+- Week 3: https://www.youtube.com/watch?v=d-bfR1_H0Sc
 
 
 
@@ -47,6 +48,8 @@ $$
 - Edge cases of linear optimization systems
 
 ## Week 3: Revised Big M Method Simplex in Matrix Notation, Modelling preemptive and weighted goal programming problems
+- Revised Simplex in Matrix Form and Big-M-Method
+- Goal Programming
 
 
 # Disclaimer: 
