@@ -58,6 +58,12 @@ $$
 - Goal Programming
 
 
+### Week 4: Sensitivity Analysis
+
+
+### Week 5: Duality Theory, Complementary Slackness Theory, Derivation
+
+
 # Disclaimer: 
 All resources here I have created myself and I can in no way guarantee the accuracy of the information.
 The faculty's lecture slides and practice materials are crucial with regard to the exam, not my notes.
