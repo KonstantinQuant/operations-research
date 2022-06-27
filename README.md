@@ -23,6 +23,7 @@ https://www.youtube.com/playlist?list=PLkmX_gkRxWIPS69e_lJQVtN8QaWNd2-50
 - Week 4: https://youtu.be/cePAhhRAV3M
 - Week 5: https://youtu.be/EeAtCrtTKoo
 - Week 6: https://youtu.be/l41bhI_1MFs
+- Week 7: https://youtu.be/4DBkHzuE-VU
 
 
 ## Week 1: Modeling (of linear optimization systems)
@@ -67,6 +68,8 @@ $$
 
 
 ### Week 6: Modeling of Integer Programming Problems
+
+### Week 7: Solving Integer Programs with the Branch&Bound and the Gomory Cutting-Plane Method
 
 
 # Disclaimer: 
