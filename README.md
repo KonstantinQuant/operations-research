@@ -25,6 +25,7 @@ https://www.youtube.com/playlist?list=PLkmX_gkRxWIPS69e_lJQVtN8QaWNd2-50
 - Week 6: https://youtu.be/l41bhI_1MFs
 - Week 7: https://youtu.be/4DBkHzuE-VU
 - Week 8: https://youtu.be/fWz0_40C9vI
+- Week 9: https://youtu.be/dsNg8fX9kRU
 
 
 ## Week 1: Modeling (of linear optimization systems)
@@ -73,6 +74,8 @@ $$
 ### Week 7: Solving Integer Programs with the Branch&Bound and the Gomory Cutting-Plane Method
 
 ### Week 8: Advanced Solution Methods for Integer Programs: Column-Generation, Dynamic Programming and Heuristics
+
+### Week 9: Network Flow Problems, Matroids, Hungarian Method
 
 
 # Disclaimer: 
