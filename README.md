@@ -78,6 +78,8 @@ $$
 
 ### Week 9: Network Flow Problems, Matroids, Hungarian Method
 
+### Week 10: Traveling Salesperson Problem (TSP)
+
 
 # Disclaimer: 
 All resources here I have created myself and I can in no way guarantee the accuracy of the information.
