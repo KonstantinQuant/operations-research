@@ -26,6 +26,7 @@ https://www.youtube.com/playlist?list=PLkmX_gkRxWIPS69e_lJQVtN8QaWNd2-50
 - Week 7: https://youtu.be/4DBkHzuE-VU
 - Week 8: https://youtu.be/fWz0_40C9vI
 - Week 9: https://youtu.be/dsNg8fX9kRU
+- Week 10: https://youtu.be/r4DuB9mMOak
 
 
 ## Week 1: Modeling (of linear optimization systems)
