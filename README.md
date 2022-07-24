@@ -1,5 +1,5 @@
 # Tutorial for Operations Research SS22 Konstantin Kuchenmeister
-Teaching repository for the undergraduate course in Operations Research at Technical University Munich.
+Teaching repository for the tutorial of the undergraduate course in Operations Research at Technical University Munich.
 
 ## Logistics:
 
@@ -66,9 +66,7 @@ $$
 
 ### Week 4: Sensitivity Analysis
 
-
 ### Week 5: Duality Theory, Complementary Slackness Theory, Derivation
-
 
 ### Week 6: Modeling of Integer Programming Problems
 
